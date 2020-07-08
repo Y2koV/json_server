@@ -339,39 +339,6 @@
 		},
 		{
 			"isFavorite": false,
-			"id": "m8",
-			"categoryIds": [
-				"c8"
-			],
-			"title": "Creamy Indian Chicken Curry",
-			"affordability": "pricey",
-			"complexity": "challenging",
-			"imageUrl": "https://cdn.pixabay.com/photo/2018/06/18/16/05/indian-food-3482749_1280.jpg",
-			"duration": 35,
-			"ingredients": [
-				"4 Chicken Breasts",
-				"1 Onion",
-				"2 Cloves of Garlic",
-				"1 Piece of Ginger",
-				"4 Tablespoons Almonds",
-				"1 Teaspoon Cayenne Pepper",
-				"500ml Coconut Milk"
-			],
-			"steps": [
-				"Slice and fry the chicken breast",
-				"Process onion, garlic and ginger into paste and sauté everything",
-				"Add spices and stir fry",
-				"Add chicken breast + 250ml of water and cook everything for 10 minutes",
-				"Add coconut milk",
-				"Serve with rice"
-			],
-			"isGlutenFree": true,
-			"isVegan": false,
-			"isVegeterian": false,
-			"isLactoseFree": true
-		},
-		{
-			"isFavorite": false,
 			"id": "m10",
 			"categoryIds": [
 				"c2",
