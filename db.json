@@ -6,7 +6,7 @@
 			"avatarFileName": "watson_john.png",
 			"age": 13,
 			"gender": "Male",
-			"birthday": "Jun 30, 2006",
+			"birthday": "Jun 30, 2006"
 		},
 		{
 			"id": "12345000",
@@ -14,7 +14,7 @@
 			"avatarFileName": "smith_bob.png",
 			"age": 12,
 			"gender": "Male",
-			"birthday": "Feb 23, 2009",
+			"birthday": "Feb 23, 2009"
 		},
 		{
 			"id": "12345345",
@@ -22,7 +22,7 @@
 			"avatarFileName": "henry_rick.png",
 			"age": 13,
 			"gender": "Male",
-			"birthday": "Apr 12, 2005",
+			"birthday": "Apr 12, 2005"
 		},
 		{
 			"id": "12343452",
@@ -30,7 +30,7 @@
 			"avatarFileName": "dale_steve.png",
 			"age": 12,
 			"gender": "Male",
-			"birthday": "Jun 30, 2006",
+			"birthday": "Jun 30, 2006"
 		},
 		{
 			"id": "123445670",
@@ -38,7 +38,7 @@
 			"avatarFileName": "mathew_stacy.png",
 			"age": 13,
 			"gender": "Female",
-			"birthday": "Feb 23, 2009",
+			"birthday": "Feb 23, 2009"
 		},
 		{
 			"id": "123445671",
@@ -46,7 +46,7 @@
 			"avatarFileName": "kemar_aryaan.png",
 			"age": 12,
 			"gender": "Male",
-			"birthday": "Apr 12, 2005",
+			"birthday": "Apr 12, 2005"
 		},
 		{
 			"id": "123445672",
@@ -54,7 +54,7 @@
 			"avatarFileName": "richard_connor.png",
 			"age": 13,
 			"gender": "Female",
-			"birthday": "Feb 23, 2009",
+			"birthday": "Feb 23, 2009"
 		},
 		{
 			"id": "123445673",
@@ -62,7 +62,7 @@
 			"avatarFileName": "green_madelyn.png",
 			"age": 12,
 			"gender": "Female",
-			"birthday": "Feb 23, 2009",
+			"birthday": "Feb 23, 2009"
 		},
 	],
 	"categories": [
